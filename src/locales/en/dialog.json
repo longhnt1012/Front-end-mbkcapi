@@ -1,0 +1,18 @@
+{
+  "confirmDeleteTitle": "Confirm delete {{model}}",
+  "confirmAcceptTitle": "Accept registration {{model}}",
+  "confirmDeleteContent": "You definitely want to delete {{model}} ",
+  "confirmAcceptContent": "You want to accept {{model}} registration?",
+  "confirmRejectContent": "You want to reject {{model}}? Please enter reason...",
+  "confirmCancelOrderTitle": "Confirm Cancel {{model}}",
+  "confirmCancelOrderContent": "You definitely want to cancel {{model}}",
+  "confirmOrderReadyDeliveryTitle": "Confirm order from ready to ready delivery",
+  "confirmOrderReadyDeliveryContent": "Are you sure order",
+  "confirmOrderEndOfShift": "Confirm end of shift",
+  "contentOrderEndOfShift": "Please check the information again before ending your shift!",
+  "contentTransferMoneyToKC": "Please check the information again before transfer money to kitchen center!",
+  "updatePasswordContent": "You need to update your password to start using your account!",
+  "updatePasswordSuccess": "You can now continue using the App!",
+  "amountOfStoreWallet": "The amount of money in the store's wallet",
+  "workShiftEnd": "Work shift ended"
+}
